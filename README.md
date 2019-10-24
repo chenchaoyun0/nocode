@@ -46,6 +46,6 @@ git clone https://github.com/chenchaoyun0/nocode.git
 
 ```
 
-## Contributing
-
-You don't.
+### 尾巴
+项目 Fork 于 [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
+源码下载地址 [chenchaoyun0/nocode](https://github.com/chenchaoyun0/nocode)
