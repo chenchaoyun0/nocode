@@ -1,52 +1,50 @@
 # No Code
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+编写安全可靠的应用程序的最佳方法，啥也不需要编写，啥也不需要测试，啥也不需要部署。
 
-## Getting Started
+No Code, No Bugs
 
-Start by not writing any code.
+## Quick Start
+
+首先从 GitHub 克隆源码
+
+```
+git clone https://github.com/chenchaoyun0/nocode.git
+```
+
+我们会看到一个脚本文件 nocode.sh，虽然它里面是空的，但我们可以发挥想象力，想象它能够为你做任何你想做的事情，例如：找一个女朋友。添加新功能也很容易。我们执行它，可以看到确实输出我们期待的东西。
 
 ```
 
 ```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
-
-```
-
-```
-
-The possibilities are endless.
 
 ### Building the Application
 
-Now that you have not done anything it's time to build your application:
+我们开始构建我们的应用程序，什么命令也不需要执行
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+是的，我们可以看到以下输出:
 
 ```
 
 ```
 
-### Deploying
+### Deploy
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
-
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
+尽管我们还没有做任何有意义的事情，但我们还是可以开始部署我们的应用程序了，只需要执行 sh nocode.sh，可以看到如下输出：
 
 ```
 
 ```
 
-I know right?
+就是这么简单，当需要扩展这个应用程序时，我们要做的是:
+
+```
+
+```
 
 ## Contributing
 
